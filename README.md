@@ -1,4 +1,4 @@
-# 🌐 Simple Website
+# 🌐 Responsive-Landing-Page
 
 A clean and responsive static website built using **HTML5** and **CSS3**. This project focuses on creating a modern, visually appealing user interface while practicing the fundamentals of frontend web development.
 
